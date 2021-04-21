@@ -18,13 +18,15 @@ The latest working therapy protocol, which worked for 2.5 months and reproduced 
 
 This protocol, along with data of the author's sleep patterns with a > 1y annotated sleep diary, are available in this repository.
 
-To read the draft of the VLiDACMel protocol, use this HTML previewer: https://circadiaware.github.io/VLiDACMel-entrainment-therapy-non24/SleepNon24VLiDACMel.html
+To read the draft of the VLiDACMel protocol:
+[https://circadiaware.github.io/VLiDACMel-entrainment-therapy-non24/SleepNon24VLiDACMel.html](https://circadiaware.github.io/VLiDACMel-entrainment-therapy-non24/SleepNon24VLiDACMel.html)
 
-If you reuse some of my material, please feel free to use it under Creative Commons v4 with attribution ([CC BY 4.0](https://creativecommons.org/licenses/by/4.0/deed)) or Creative Commons v4 with attribution share-alike ([CC BY SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/deed)) at your discretion.
+If you would like to reuse some of my material, please feel free to do so under Creative Commons v4 with attribution ([CC BY 4.0](https://creativecommons.org/licenses/by/4.0/deed)) or Creative Commons v4 with attribution share-alike ([CC BY SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/deed)) at your discretion.
 
 I am also open to collaborations (eg, to design a group study on healthy volunteers and/or patients with sighted non-24).
 
-A (messy) side notebook with lots of references along with an older draft protocol (based on chronotherapy and melatonin - which did not work) is available here: To view the draft, use this HTML previewer: https://circadiaware.github.io/VLiDACMel-entrainment-therapy-non24/other_docs/SleepNon24.html
+A (messy) side notebook with lots of references along with an older draft protocol (based on chronotherapy and melatonin - which did not work) is available here:
+[https://circadiaware.github.io/VLiDACMel-entrainment-therapy-non24/other_docs/SleepNon24.html](https://circadiaware.github.io/VLiDACMel-entrainment-therapy-non24/other_docs/SleepNon24.html)
 
 ## Wearables vitals dataset
 
