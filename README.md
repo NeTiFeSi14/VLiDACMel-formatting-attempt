@@ -26,7 +26,7 @@ If you would like to reuse some of my material, please feel free to do so under 
 I am also open to collaborations (eg, to design a group study on healthy volunteers and/or patients with sighted non-24).
 
 A (messy) side notebook with lots of references along with an older draft protocol (based on chronotherapy and melatonin - which did not work) is available here:
-[https://circadiaware.github.io/VLiDACMel-entrainment-therapy-non24/other_docs/SleepNon24.html](https://circadiaware.github.io/VLiDACMel-entrainment-therapy-non24/other_docs/SleepNon24.html)
+[https://circadiaware.github.io/VLiDACMel-entrainment-therapy-non24/other_docs/SleepNon24.html?](https://circadiaware.github.io/VLiDACMel-entrainment-therapy-non24/other_docs/SleepNon24.html?)
 
 ## Wearables vitals dataset
 
