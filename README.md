@@ -28,6 +28,8 @@ I am also open to collaborations (eg, to design a group study on healthy volunte
 A (messy) side notebook with lots of references along with an older draft protocol (based on chronotherapy and melatonin - which did not work) is available here:
 [https://circadiaware.github.io/VLiDACMel-entrainment-therapy-non24/other_docs/SleepNon24.html](https://circadiaware.github.io/VLiDACMel-entrainment-therapy-non24/other_docs/SleepNon24.html)
 
+All notebooks were written in [Zim Desktop Wiki](https://zim-wiki.org/) and exported with a table of contents using [this template](https://github.com/lrq3000/ZIM-templates). The document may migrate to [Zettlr](https://www.zettlr.com/) in the future for publication since the latter supports academic-style bibliography and citations.
+
 ## Wearables vitals dataset
 
 In order to both better characterize the non-24 circadian rhythm disorder's phenomenology without intervention, and the effect of the VLiDACMel intervention (and maybe of other interventions) in an objective fashion, the author is developing a set of software tools and self-monitoring wearable devices to monitor the circadian rhythm disorder.
