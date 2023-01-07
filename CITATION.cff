@@ -1,0 +1,9 @@
+cff-version: 1.1.0
+message: "If you would like to cite this therapeutic protocol, please cite it as below:"
+authors:
+  - family-names: Larroque
+    given-names: Stephen Karl
+    orcid: https://orcid.org/0000-0002-6248-0957
+title: Circadiaware/VLiDACMel-entrainment-therapy-non24: VLiDACMel therapy 2023-01
+version: 2023_01
+date-released: 2023-01-07
