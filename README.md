@@ -49,4 +49,4 @@ This protocol was designed and documented by Stephen Karl Larroque.
 
 If you would like to cite this therapeutic protocol, please cite it as below:
 
-> VLiDACMel - Therapy for entrainment of treatment-resistant sighted non24, Stephen Karl Larroque, 2023, doi: 10.5281/zenodo.7512052, url: https://circadiaware.github.io/VLiDACMel-entrainment-therapy-non24/SleepNon24VLiDACMel.html .
+> VLiDACMel - A therapy for the entrainment of treatment-resistant sighted non24, Stephen Karl Larroque, 2023, doi: 10.5281/zenodo.7512052, url: https://circadiaware.github.io/VLiDACMel-entrainment-therapy-non24/SleepNon24VLiDACMel.html .

@@ -1,9 +1,9 @@
 cff-version: 1.2.0
-message: "If you would like to cite this therapeutic protocol, please cite it as below:"
+message: "If you would like to cite this protocol, please cite it as below:"
 authors:
 - family-names: "Larroque"
   given-names: "Stephen Karl"
   orcid: "https://orcid.org/0000-0002-6248-0957"
-title: "VLiDACMel - Therapy for entrainment of treatment-resistant sighted non24"
+title: "VLiDACMel - A therapy for the entrainment of treatment-resistant sighted non24"
 doi: 10.5281/zenodo.7512052
 url: "https://circadiaware.github.io/VLiDACMel-entrainment-therapy-non24/SleepNon24VLiDACMel.html"
