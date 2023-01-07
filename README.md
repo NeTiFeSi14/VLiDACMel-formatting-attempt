@@ -17,7 +17,7 @@ The latest working therapy protocol, which is considered mature and reproducible
 * **V**ery long **Li**ght therapy at wake-up (after minimal core body temperature),
 * **D**ark therapy in the evening,
 * **A**void **C**arbs and **Mel**atonin mixup,
-* and take exogenous instant-release **Mel**atonin timed before DLMO (measured via core body temperature or approximated via 3 days average of wake-up times).
+* and, optionally, take exogenous instant-release **Mel**atonin timed before DLMO (measured via core body temperature or approximated via 3 days average of wake-up times).
 
 This protocol, along with data of the author's sleep patterns with a >1y annotated sleep diary, are available in this repository.
 
