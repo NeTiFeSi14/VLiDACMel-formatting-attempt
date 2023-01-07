@@ -1,0 +1,13 @@
+{
+    "description": "<p>Frozen version of the VLiDACMel therapy on 2023-01-07 to ease citation.</p>", 
+    "license": "CC-BY-SA 4.0", 
+    "title": "VLiDACMel - Therapy for entrainment of treatment-resistant sighted non24",
+    "upload_type": "software", 
+    "creators": [
+        {
+            "affiliation": "Independent researcher", 
+            "name": "Stephen Karl Larroque"
+        }
+    ], 
+    "access_right": "open"
+}
